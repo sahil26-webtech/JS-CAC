@@ -2,7 +2,7 @@ const accountId = 12445
 let accountEmail = "sahil@google.com"
 var accountPassword = "1345"
 
-accoountCity = "Jaipur" // we can also allocate memory without using keyword but this is not good
+accountCity = "Jaipur" // we can also allocate memory without using keyword but this is not good
 //if we not assign any value in variable so it gives undefined
 
 let accountState; //semicolon is not necessary in js
